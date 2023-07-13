@@ -1,4 +1,4 @@
- # <a href="https://www.linkedin.com/in/ashwanisng/">Daniel Álvarez Peral</a> :smiley: 
+ # <a href="https://linkedin.com/in/daniel-%C3%A1lvarez-peral-aba5811b4">Daniel Álvarez Peral</a> :smiley: 
  ### Junior Big Data Developer 📊
  
  <a href="https://twitter.com/DaniPeral15">
