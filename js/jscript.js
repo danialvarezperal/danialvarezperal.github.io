@@ -86,7 +86,7 @@ const nav = document.querySelector(".nav"),
 /* LETRAS ANIMADAS*/
 
 var typed = new Typed(".typing",{
-    strings:["","Big Data Junior Developer","Técnico en Sistemas","Diseñador Web","Técnico en administración de BBDD","Técnico en Redes"],
+    strings:["","Data Developer","Técnico en Sistemas","Diseñador Web","Técnico en administración de BBDD","Técnico en Redes"],
     typeSpeed:100,
     BackSpeed:60,
     loop:true
