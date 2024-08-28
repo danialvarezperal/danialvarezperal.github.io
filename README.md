@@ -22,13 +22,13 @@
 Este repositorio contiene mi portfolio web y mi CV todavía en desarollo.
 
 ## Sobre mí :sunglasses:
-Soy un apasionado de la informática en prácticamente todos sus aspectos, me gusta el diseño y maquetado web, la gestión de redes y administración sistemas informáticos, la administración de bases de datos. En la actualidad estoy desempeñando la labor de Junior Big Data Developer, un mundillo apasionante y muy necesario en la actualidad con la cantidad de datos que se generan.
+Soy un apasionado de la informática en prácticamente todos sus aspectos, me gusta el diseño y maquetado web, la gestión de redes y administración sistemas informáticos, la administración de bases de datos. En la actualidad estoy desempeñando la labor de Big Data Developer, un mundillo apasionante y muy necesario en la actualidad con la cantidad de datos que se generan.
 ## Tecnología :fire:
 - Python.
-- Java
-- SQL
-- HTML/CSS/JavaScript
-- Tecnologías Big Data (PySpark-Spark/Scala)
+- Scala.
+- SQL.
+- HTML/CSS/JavaScript.
+- Tecnologías Big Data (PySpark-Spark/Scala).
 
 **Lenguajes y herramientas:**  
 
